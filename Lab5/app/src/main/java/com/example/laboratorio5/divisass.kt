@@ -1,6 +1,6 @@
 package com.example.laboratorio5
 
-public class divisass(
+internal class divisass(
     var GTQ:Double,
     var EUR:Double
 )

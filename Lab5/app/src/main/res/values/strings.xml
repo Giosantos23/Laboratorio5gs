@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Laboratorio5</string>
+    <string name="divisa_Base">GTQ: 1.00</string>
+    <string name="usd">USD</string>
+    <string name="usd_D">USD: 1.00</string>
+    <string name="gtq">GTQ:</string>
+    <string name="eur">EUR:</string>
+    <string name="ultima_actualizacion_de_divisa">Ultima actualizacion de divisa</string>
+</resources>
